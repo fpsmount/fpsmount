@@ -27,7 +27,6 @@ I invite you to call me through my contacts at the end of this Overview and find
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fpsm0unt/)
 
 ![Mount's GitHub stats](https://github-readme-stats.vercel.app/api?username=fpsmount&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mountt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Learning Courses
