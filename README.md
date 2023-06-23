@@ -29,6 +29,9 @@ I invite you to call me through my contacts at the end of this Overview and find
 ![Mount's GitHub stats](https://github-readme-stats.vercel.app/api?username=fpsmount&show_icons=true&theme=dracula)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fpsmount&layout=compact&show_icons=true&theme=dracula)
+<img align="right" alt="m0unt" src="https://cdn.discordapp.com/attachments/1041513023346573342/1121598315109306378/picasion.com_568c4cf4aa74783ea4bab303116e7c66.gif">
+
 ## Learning Courses
 
 <div style = "display: inline_block"><br/>
@@ -47,3 +50,5 @@ I invite you to call me through my contacts at the end of this Overview and find
     <img align="" alt="python" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="" alt="python" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
+
+![snake gif](https://github.com/fpsmount/Formandodev/blob/output/github-contribution-grid-snake.svg)
