@@ -51,4 +51,4 @@ I invite you to call me through my contacts at the end of this Overview and find
     <img align="" alt="python" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
-![snake gif](https://github.com/fpsmount/Formandodev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/fpsmount/fpsmount/blob/output/github-contribution-grid-snake.svg)
