@@ -54,4 +54,5 @@ I invite you to call me through my contacts at the end of this Overview and find
 <div align="center">
 
  ![Snake animation](https://github.com/fpsmount/fpsmount/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
