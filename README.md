@@ -22,6 +22,8 @@ I'm quite committed, if you give me a mission/activity that I don't know about, 
 
 I invite you to call me through my contacts at the end of this Overview and find out what this young man can offer for your company/business
 
+-------
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mountt/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fpsm0unt/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fpsm0unt/)
