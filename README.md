@@ -2,7 +2,7 @@
 
 ### 👨‍🎓 Ciência da Computação UDF.
 
-Atualmente busco aprendizado na área de banco de dados e desenvolvimento back-end, mas gosto de conhecer o mais extenso campo de Tecnologia, desde infra em máquina até em nuvem, segurança, e programação, seja pra dispositivos móveis, ou para desktop e WEB.
+Ex Jogador Multicampeão de CSGO. Atualmente busco aprendizado na área de banco de dados e desenvolvimento back-end, mas gosto de conhecer o mais extenso campo de Tecnologia, desde infra em máquina até em nuvem, segurança, e programação, seja pra dispositivos móveis, ou para desktop e WEB.
 Sou bastante empenhado, se me der uma missão/atividade que eu não saiba, vou buscar aprender como faze-la, se depois de várias tentativas e falhas busco pessoas dentro da equipe no qual eu estou inserida para tentar encerrar o desafio proposto.
 
 Convido a me chamarem através dos meus contatos no final deste Overview e descobrir o que este jovem pode oferecer para sua empresa/negócio
