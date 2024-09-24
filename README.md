@@ -32,7 +32,7 @@ I invite you to call me through my contacts at the end of this Overview and find
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fpsmount&layout=compact&show_icons=true&theme=dracula)
-<img align="right" alt="m0unt" src="https://cdn.discordapp.com/attachments/1041513023346573342/1121598315109306378/picasion.com_568c4cf4aa74783ea4bab303116e7c66.gif">
+<img align="right" alt="m0unt" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjU0MGU3bXJwdnFucm44YXRnang4cTUxNW80M3RveW9pNHAyZnFpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TKG8XyAHYQhaxqDem/giphy.gif">
 
 ## Learning Courses
 
