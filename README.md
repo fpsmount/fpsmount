@@ -1,6 +1,6 @@
 ## Olá, sou Dimitri Monteiro ✌️
 
-### 👨‍💻 Desenvolvedor Fullstack | Programador Java no Ministério da Saúde | Criador do FinanZas  
+### 👨‍💻 Desenvolvedor Fullstack | Programador Java no Ministério da Saúde  
 
 Atualmente trabalho com **Java, Spring Boot, Angular, React e PostgreSQL**, desenvolvendo soluções robustas e escaláveis.  
 Tenho experiência tanto em **frontend** quanto em **backend**, com foco em sistemas corporativos, integração de APIs e boas práticas de arquitetura.  
@@ -16,7 +16,7 @@ Além de desenvolvimento, também tenho interesse em **DevOps, Cloud (AWS), banc
 
 ## Hello, I'm Dimitri Monteiro ✌️
 
-### 👨‍💻 Fullstack Developer | Java Programmer at Ministry of Health | FinanZas Creator  
+### 👨‍💻 Fullstack Developer | Java Programmer at Ministry of Health
 
 I currently work with **Java, Spring Boot, Angular, React, and PostgreSQL**, building scalable and reliable solutions.  
 I have solid experience in both **frontend** and **backend**, focusing on enterprise systems, API integration, and software architecture best practices.  
